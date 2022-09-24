@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(95, 142, 230);
+}
+
+
+.container{
+width: 325px;
+height:377px;
+border: 3px solid black;
+margin: auto;
+border-radius: 10px;
+align-items: center;
+
+
+}
+.ans{
+    width:320px;
+    height:40px;
+    border:1px solid black;
+    margin: auto;
+    margin-top: 8px;
+    background-color:rgb(252, 244, 244);
+    border-radius: 12px;
+}
+.box{
+    margin-top: 8px;
+    width: 40px;
+    margin-left: 27px ;
+    height: 40px;
+    border-radius: 10px;
+  
+}
+button:hover{
+    background-color: rgb(95, 142, 230);
+    color: white ;
+    /* text-size-adjust: 20px; */
+}
+
+
